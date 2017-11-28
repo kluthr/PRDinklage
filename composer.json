@@ -1,0 +1,6 @@
+{
+    "require": {
+        "botman/driver-slack": "^1.1",
+        "mpociot/slack-client": "^0.3.4"
+    }
+}
